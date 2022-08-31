@@ -1,0 +1,233 @@
+.row {
+    margin: 20px;
+    /* max-width: 30px; */
+}
+
+.container {
+    margin: 20px;
+}
+
+.AJ {
+    position: absolute;
+    width: 580.81px;
+    height: 214px;
+    left: 290px;
+    top: 301px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 72px;
+
+    color: #282828;
+
+}
+
+.BJ {
+    position: absolute;
+    width: 580.81px;
+    height: 214px;
+    left: 290px;
+    top: 360px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+
+    color: #FF4C60;
+}
+
+.himg {
+    position: absolute;
+    width: 600.17px;
+    height: 625px;
+    left: 820px;
+    top: 63px;
+
+
+}
+
+.mon {
+    position: absolute;
+    width: 57.06px;
+    height: 56px;
+    left: 370.06px;
+    top: 490px;
+}
+
+.exp {
+    position: absolute;
+    width: 75px;
+    height: 80px;
+    left: 440px;
+    top: 476px;
+}
+
+.react {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 525px;
+    top: 493px;
+}
+
+.nod {
+    position: absolute;
+    width: 75px;
+    height: 80px;
+    left: 590px;
+    top: 476px;
+}
+
+.bg {
+    position: absolute;
+    left: 19.48%;
+    right: 52.92%;
+    top: 20.94%;
+    bottom: 71.73%;
+}
+.gif{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 190px;
+    top: 640px;
+}
+.skill{
+    position: absolute;
+/* width: 470px;
+height: 105px; */
+left: 750px;
+top: 700px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+/* line-height: 45px; */
+
+color: #282828;
+}
+.js{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 755px;
+    top: 790px;
+}
+.c{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 805px;
+    top: 786px;
+}
+.skills{
+    position: absolute;
+    top: 800px;
+    left: 600px;
+
+}
+
+.abcd{
+    position: absolute;
+    width: 580.81px;
+    height: 214px;
+    left: 630px;
+    top: 680px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 72px;
+}
+.data{
+    position: absolute;
+    top: 880px;
+    left: 690px;
+}
+.core{
+    /* display: inline; */
+    display: grid;
+    font-size: 30px;
+    text-align: center;
+    font-style: none;
+}
+.stats{
+    /* background-color: red; */
+    /* height: 800px; */
+    /* width: 800px; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr) ;
+    grid-template-rows: repeat(1,1fr);
+    /* row-gap: 12px; */
+    column-gap: 12px;
+    align-items: center;
+    place-items: center;
+}
+
+
+.items2{
+    justify-self: auto;
+
+}
+.items3{
+
+    padding-top: 30px;
+}
+.acc{
+    
+    display: grid;
+    grid-template-columns: repeat(7,1fr) ;
+    grid-template-rows: repeat(1,1fr);
+    column-gap: 12px;
+    place-items: center;
+}
+.hiii{
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+.githubsc{
+    display: grid;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.defini{
+    display: grid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+
+}
+.yoobro{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 12px; 
+    align-items: center;
+
+}
+.core2{
+    font-family: 'Poppins';
+    font-style: normal;
+    text-decoration: none;
+    color: rgb(125, 183, 129);
+    margin-right: 300px;
+    margin-left: -50px;
+    font-size: 30px;
+}
+.core3{
+margin-left: 400px;
+}
+h2:hover{
+    color: rgb(119, 119, 236);
+}
+h1:hover{
+    color: rgb(33, 58, 58);
+}
